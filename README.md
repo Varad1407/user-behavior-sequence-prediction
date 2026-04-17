@@ -1,5 +1,13 @@
 # User Behavior Sequence Prediction using Machine Learning
 
+## Example Prediction
+
+Given:
+- Previous Product: X
+- Current Product: Y
+
+Predicted Next Product: Z
+
 ## Overview
 This project predicts the next product a customer is likely to purchase based on their previous behavior.
 
